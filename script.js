@@ -1,3 +1,3 @@
 function login() {
-  document.getElementById("status").innerText = "Logged in";
+  document.getElementById("status").innerText = "Logged fixed";
 }
